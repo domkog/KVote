@@ -1,0 +1,5 @@
+name: KVote
+main: at.domkog.KVote.KVote
+version: 0.0.1
+
+commands:
